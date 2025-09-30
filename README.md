@@ -67,7 +67,7 @@ First, clone this project to your local machine (or simply use the files as they
 
 3.  **Create a `.env` file** in the `backend` directory. This file will hold your secret API key. Add your Gemini API key to it:
     ```
-    GEMINI_API_KEY="your_api_key_here"
+    OLLAMA_API_KEY="your_api_key_here"
     ```
 
 4.  **Install the required Python packages:**
