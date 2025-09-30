@@ -2,8 +2,6 @@
 
 A web-based tool that uses the Gemini API to transform your code based on a selected "vibe." Write or paste your code, choose a transformation, and let AI handle the rest.
 
-![Vibecode Editor Screenshot](https://i.imgur.com/your-screenshot-url.png) 
-*(Feel free to replace the link above with a screenshot of the running application)*
 
 ---
 
